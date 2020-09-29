@@ -94,35 +94,6 @@ nav ul li a:hover{
 	border: 1px solid #888;
 }
 
-/*profile section */
-section#box-profile{
-	position: relative;
-	width: 80%;
-	min-height: 250px;
-	margin-left: 10%;
-	margin-right: 10%;
-	margin-top: 60px;
-	border-radius: 6px;
-	background-color: #fff
-	box-shadow: 0 0 7px 0px rgba(136, 136, 136,0.2);
-}
-#box-profile .img-profile{
-	position: relative;
-	display: inline-block;
-	width: 200px;
-	height: 200px;
-	border-radius: 300px;
-	float: left;
-	top: 25px;
-	margin-left: 40px;	
-}
-.img-profile .photo{
-	height: 100%;
-	background-size: 100%;
-	background-repeat: no-repeat;
-	background-position: 0px -20px;
-	border-radius: 300px;
-}
 .description{
 	position: relative;
 	width: 400px;
@@ -200,6 +171,4 @@ section#box-profile{
 	padding: 20px 0px;
 	font-family: sans-serif;
 	font-size: 15px;
-}
-
 }
